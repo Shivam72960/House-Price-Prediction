@@ -7,7 +7,7 @@ Project Description:  This project aims to develop a machine learning model to p
 5. Number of parking spaces
 
 
-   ### project_folder/
+ ### project_folder/
 1. │
 2. ├── app.py
 3. ├── model.pkl
